@@ -1,7 +1,7 @@
 ![Banner](https://github.com/cathychenvo/cathychenvo/blob/main/Banner.png)
 
-No CS Degree. Learn to code from 0.
-2022 Goal: Pursuing career change from technical support to front-end web developer. 
+- No CS Degree. Learn to code from 0.
+- 2022 Goal: Pursuing career change from technical support to front-end web developer. 
 
 ### 🌱 Things that I'm working on:
 - Exploring front-end development journey at Alpha Camp from Jan 2022.
@@ -10,7 +10,11 @@ No CS Degree. Learn to code from 0.
 - Working on 2 private repositories.
 
 ### 🌱 Languages & Frameworks:
-JS / HTML / CSS / Bootstrap / Git 
+- JS
+- HTML
+- CSS
+- Bootstrap
+- Git 
 
 ### 🌱 GitHub Stats:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
