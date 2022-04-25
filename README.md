@@ -20,8 +20,8 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🌱 Get in touch:
-[Personal site](https://cathychenvo.github.io)
-[IG](https://www.instagram.com/cathy_designchallenge/)
+- [Personal site](https://cathychenvo.github.io)
+- [IG](https://www.instagram.com/cathy_designchallenge/)
 
 <!-- - 🌱 I'm currently learning from (https://tw.alphacamp.co/)
 - 🔭 I’m creating my front-end projects at the moment.
