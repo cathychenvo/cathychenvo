@@ -7,7 +7,7 @@
 - Exploring front-end development journey at Alpha Camp from Jan 2022.
 - Creating badges / vectors / GIF by using Adobe software to make website cooler.
 - Learning the UI / UX to get better understanding of designer thinking.
-- Working on 2 private repositories.
+- Working on personal site at the moment.
 
 ### 🌱 Languages & Frameworks:
 - JS
@@ -20,7 +20,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🌱 Get in touch:
-- [Personal site](https://cathychenvo.github.io)
+<!-- - [Personal site](https://cathychenvo.github.io) -->
 - [IG](https://www.instagram.com/cathy_designchallenge/)
 
 <!-- - 🌱 I'm currently learning from (https://tw.alphacamp.co/)
